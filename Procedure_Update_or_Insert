@@ -1,6 +1,6 @@
 --creating emp_dep_AnnivConstruction procedure
 /*
-PL/SQL procedure insert or update records in the Employee table.
+PL/SQL procedure to insert or update records in the Employee and Department table.
 */
 set serveroutput on;
 CREATE OR REPLACE PROCEDURE emp_dep_AnnivConstruction(
